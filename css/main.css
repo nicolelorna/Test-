@@ -23,6 +23,7 @@ body{
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+
   background-image:url('images/backs.jpg');
   background-position: center center;
   flex-wrap: wrap;
